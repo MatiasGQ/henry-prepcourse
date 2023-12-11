@@ -1,2 +1,1 @@
-# henry-prepcourse
-modulo 2 
+este proyecto es una prueba de como crear nuestro repositorioy clonarlo desxe git hub
